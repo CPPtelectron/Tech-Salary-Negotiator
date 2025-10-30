@@ -1,0 +1,2 @@
+# Quick Thoughts
+Clarify dependency management using lock files
